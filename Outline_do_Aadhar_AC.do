@@ -1,8 +1,11 @@
 /**************************************************** Quantitative Test Outline India *********************************************************************************
 
-Name: Aditya Chhabra
+Created this do-file with some convenient mini-programs for a recruitment test. Not posting the data as im not sure what rights
+i would be infringing upon.
 
-Email: aditya0chhabra@gmail.com
+Name: -
+
+Email: -
 
 
 
